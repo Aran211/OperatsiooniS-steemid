@@ -3,7 +3,7 @@
 | Mitu protsessi kokku arvutis käib?  |207  |   |  ps -e wc -l |   |   |   |   |   |   |   |   |   |   |
 | Milline on kõige esimesena käivitatud protsess?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Mitu ja milliste kasutajate protsesse arvutis käib?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Kui kaua on arvuti järjest töötanud (up time) ? (Alternatiivselt võib vastata ka millal (kuupäev ja kellaaeg) arvuti viimati käima pandi?)?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Kui kaua on arvuti järjest töötanud (up time) ? (Alternatiivselt võib vastata ka millal (kuupäev ja kellaaeg) arvuti viimati käima pandi?)?  | 23:52:34 up 24 min,  1 user,  load average: 1,25, 0,68, 0,69  |   |uptime |   |   |   |   |   |   |   |   |   |   |
 | Milline protsess käivitati kõige hiljem (viimasena)?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Milline on kõige rohkem protsessoriaega võttev protsess?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Milline on kõige rohkem virtuaalmälu (aadressiruumi, commit, Virtual Size) võttev protsess?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
