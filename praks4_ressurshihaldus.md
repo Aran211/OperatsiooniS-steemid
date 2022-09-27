@@ -1,6 +1,6 @@
 | Küsimus  | Linux  |  Windows | Linuxis kasutatud käsklus  | 	Windowsis kasutatud tööriist  |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Mitu protsessi kokku arvutis käib?  |207  |   |  ps -e "|" wc -l |   |   |   |   |   |   |   |   |   |   |
+| Mitu protsessi kokku arvutis käib?  |207  |   |  ps -e wc -l |   |   |   |   |   |   |   |   |   |   |
 | Milline on kõige esimesena käivitatud protsess?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Mitu ja milliste kasutajate protsesse arvutis käib?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Kui kaua on arvuti järjest töötanud (up time) ? (Alternatiivselt võib vastata ka millal (kuupäev ja kellaaeg) arvuti viimati käima pandi?)?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
