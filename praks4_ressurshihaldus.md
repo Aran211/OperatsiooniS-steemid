@@ -1,8 +1,8 @@
 | Küsimus  | Linux  |  Windows | Linuxis kasutatud käsklus  | 	Windowsis kasutatud tööriist  |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Mitu protsessi kokku arvutis käib?  |207  |128|  ps -e wc -l |   |   |   |   |   |   |   |   |   |   |
-| Milline on kõige esimesena käivitatud protsess?  |root 1  0  0 21:56 ? 00:00:01 /sbin/init splash |   |   |  ps -ef grep init | Süsteemi jõudeoleku protsess|   |   |   |   |   |   |   |   |
-| Mitu ja milliste kasutajate protsesse arvutis käib?  |Ron, root, Systemd -r, -t,-o, syslog, rtkit, kernoops, lp, avahi|   |   |htop  |   |   |   |   |   |   |   |   |   |
+| Mitu protsessi kokku arvutis käib?  |207  |128|  ps -e wc -l | Task Manager   |   |   |   |   |   |   |   |   |   |
+| Milline on kõige esimesena käivitatud protsess?  |root 1  0  0 21:56 ? 00:00:01 /sbin/init splash | Süsteemi jõudeoleku protsess|   |  ps -ef grep init ||   |   |   |   |   |   |   |   |
+| Mitu ja milliste kasutajate protsesse arvutis käib?  |Ron, root, Systemd -r, -t,-o, syslog, rtkit, kernoops, lp, avahi|Local Service 22, DWB-1 1, Network service 8, ülejäänud System ja minu user|   |htop  |   |   |   |   |   |   |   |   |   |
 | Kui kaua on arvuti järjest töötanud (up time) ? (Alternatiivselt võib vastata ka millal (kuupäev ja kellaaeg) arvuti viimati käima pandi?)?  | 23:52:34 up 24 min,  1 user,  load average: 1,25, 0,68, 0,69  |   |uptime |   |   |   |   |   |   |   |   |   |   |
 | Milline protsess käivitati kõige hiljem (viimasena)? | ron         2784  0.0  0.1  22460  5444 pts/0    Ss   22:32   0:00 bash
 ron         2798  0.0  0.1  24124  3964 pts/0    R+   22:36   0:00 ps -aux(viimased 2 igaks juhuks)|   |ps -aux |   |   |   |   |   |   |   |   |   |   |
