@@ -1,8 +1,8 @@
 | Küsimus  | Linux  |  Windows | Linuxis kasutatud käsklus  | 	Windowsis kasutatud tööriist  |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Mitu protsessi kokku arvutis käib?  |207  |   |  ps -e wc -l |   |   |   |   |   |   |   |   |   |   |
-| Milline on kõige esimesena käivitatud protsess?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Mitu ja milliste kasutajate protsesse arvutis käib?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Milline on kõige esimesena käivitatud protsess?  |root 1  0  0 21:56 ? 00:00:01 /sbin/init splash |   |   |  ps -ef grep init |   |   |   |   |   |   |   |   |   |
+| Mitu ja milliste kasutajate protsesse arvutis käib?  |Ron, root, Systemd -r, -t,-o, syslog, rtkit, kernoops, lp, avahi|   |   |htop  |   |   |   |   |   |   |   |   |   |
 | Kui kaua on arvuti järjest töötanud (up time) ? (Alternatiivselt võib vastata ka millal (kuupäev ja kellaaeg) arvuti viimati käima pandi?)?  | 23:52:34 up 24 min,  1 user,  load average: 1,25, 0,68, 0,69  |   |uptime |   |   |   |   |   |   |   |   |   |   |
 | Milline protsess käivitati kõige hiljem (viimasena)?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Milline on kõige rohkem protsessoriaega võttev protsess?  |   |   |   |   |   |   |   |   |   |   |   |   |   |
