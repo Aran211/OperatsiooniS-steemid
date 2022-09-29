@@ -10,7 +10,7 @@
 |Milline on kõige rohkem füüsilist mälu (working set) võttev protsess?|1309 ron 20 0 4569004 394804 141468 S 9,6 **13,3** 1:22.13 gnome-s+|SearchHost.exe,188244KB|Top|Resource Manager|
 |Kui palju füüsilisest mälust (Physical Memory) on vaba?|2978608 kB|1851MB|grep MemTotal /proc/meminfo| Resource Manager
 |Kui palju on põhikettal (C:, /) vaba ruumi mahult (GB) ja protsentuaalselt?|otal used free shared buff/cache available Mem:2,8Gi 812Mi 778Mi 45Mi 1,3Gi **1,8Gi**, 64,3%|41524MB, 64.1%|free -g -h -t|Resource Manager|
-|Milline on kõige suurem kõvakettal olev fail ja kõige suurem kaust?  |1612M	/usr/lib/x86_64-linux-gnu ja kõige suurem kaust /usr|1612M	/usr/lib/x86_64-linux-gnu ja kõige suurem kaust /usr|sudo du -aBm / 2>/dev/null  sort -nr  head -n 10| |   |
+|Milline on kõige suurem kõvakettal olev fail ja kõige suurem kaust?  |1612M	/usr/lib/x86_64-linux-gnu ja kõige suurem kaust /usr| |sudo du -aBm / 2>/dev/null  sort -nr  head -n 10| |   |
 |   |   |   |   |   |
 |Teenuse host: Win update|   |   |   |   |
 |   |   |   |   |   |
