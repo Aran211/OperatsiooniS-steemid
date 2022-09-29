@@ -12,5 +12,5 @@
 |Kui palju on põhikettal (C:, /) vaba ruumi mahult (GB) ja protsentuaalselt?|otal used free shared buff/cache available Mem:2,8Gi 812Mi 778Mi 45Mi 1,3Gi **1,8Gi**, 64,3%|41524MB, 64.1%|free -g -h -t|Resource Manager|
 |Milline on kõige suurem kõvakettal olev fail ja kõige suurem kaust?  |1612M	/usr/lib/x86_64-linux-gnu ja kõige suurem kaust /usr| |sudo du -aBm / 2>/dev/null  sort -nr  head -n 10| |   |
 |   |   |   |   |   |
-|Teenuse host: Win update|   |   |   |   |
+||   |   |   |   |
 |Sõber kurdab, et tema arvuti on oluliselt aeglasem kui varasemalt. Millise programmiga ja millise parameetrite abil saate tuvastada milline protsess või teenus muudab arvuti aeglaseks? |Esmalt vaataksin palju on kettal vaba mahtu ning mis protsessid tarvitavad kõige rohkem mälu ja ega midagi ei käi kasutaja teadmata taustal|   |   |   |
