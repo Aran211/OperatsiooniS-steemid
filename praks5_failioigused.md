@@ -19,6 +19,7 @@
      - Jah, sest kasutaja saab siiski õigusi, kuid mitte päris root õigusi.
 
 **7. Kirjutage oma viki lehele kõik kasutajaid, kes saavad sticky bit õigustega yhiskaust kataloogist nüüd peeter kasutaja loodud faile kustutada. (teema: sticky bit)**
+          kõik kasutajad
 
 8. Uurige käsuga ls -la faili hinded.txt õigusi - mida märkate? Seejärel uurige õigusi täpsemalt, kasutades käsku getfacl ning kopeerige see tulemus oma vikilehele. (teema: ACL)
 
