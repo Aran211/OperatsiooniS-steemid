@@ -5,6 +5,8 @@
 ![lsblk_com](https://user-images.githubusercontent.com/112877689/199842707-640c85f9-662f-4b1e-9bfd-1aafb47ffecd.jpg)
 
 ![Nextcloud](https://user-images.githubusercontent.com/112877689/199844566-86b4e0e9-fe5b-49b8-8b8e-07b4f56e98d4.jpg)
+![failed_onecloud](https://user-images.githubusercontent.com/112877689/199852021-b0c9e9c4-cc36-455b-bba9-8de3233ee8ed.jpg)
+Onecloudi installimisel sain sellise errori ning ka AppImage ei käivitunud
 
 ![Onedrive_Screen](https://user-images.githubusercontent.com/112877689/199851887-3fa6a9f0-844b-4360-9bb5-8f787dc18ab4.jpg)
 Siin on näha, et onedrive on ühenduses arvutiga
