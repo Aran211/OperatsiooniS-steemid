@@ -2,3 +2,4 @@
 ![2_katkist](https://user-images.githubusercontent.com/112877689/199838470-b49d0432-cb3c-4db8-8b45-997cf342fef7.jpg)
 ![K_ketta_sisu](https://user-images.githubusercontent.com/112877689/199838474-eb093a37-d383-4156-93be-71f1b935337e.jpg)
 ![lsblk_command](https://user-images.githubusercontent.com/112877689/199838478-766d15bc-97ed-4be9-afd1-dcd9f477c894.jpg)
+![lsblk_com](https://user-images.githubusercontent.com/112877689/199842707-640c85f9-662f-4b1e-9bfd-1aafb47ffecd.jpg)
