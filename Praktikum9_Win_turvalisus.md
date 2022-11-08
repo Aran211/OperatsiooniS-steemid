@@ -3,7 +3,11 @@
   Avanenud aknas on palju rohkem näha Enabled väärtusi, võrreldes tavalise admistraatori cmd whoami /priv käsu väljudil. Näiteks on Sys õigusi vaja "SetTimeZonePrivilege" muutmisel.
   
 2.Ekraanivaade turvalise kausta seadetest (ainult üks kasutaja saab teha kõike ja Ülemus ainult lugeda)
-  - 
+  -![image](https://user-images.githubusercontent.com/112877689/200669815-b0b237d6-94c0-46c6-8a0e-e8beee59b9b1.png)
+  Vaade ülemuse õigustest
+  - ![image](https://user-images.githubusercontent.com/112877689/200669937-8a8ca8ef-727a-44f5-8d99-bf46fd68eb4c.png)
+  vaade Teise tavakasutaja õigustest(Selle nimega on ka kaust).
+ 
   
   
   
