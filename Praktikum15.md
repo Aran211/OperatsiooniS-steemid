@@ -15,4 +15,10 @@
 **Ülesanne 2
 Leia netstat käsu väljundist enda ssh ühenduse info, selleks võib esmalt väljundit piirata meile huvi pakkuvate portidega netstat -n | grep :22. Seejärel peaksite minema lehele https://www.whatismyip.com/ või mõnele sarnasele, mis näitab ära teie arvuti avaliku IP-aadressi. Need tudengid, kes lahendavad ülesannet TÜ sisevõrgust (arvutiklassist), siis teie puhul on netstat käsu väljundis nähtav teie tegelik arvuti IP-aadress(TÜ sisevõrgu aadress), mitte avalik.**
 ![image](https://user-images.githubusercontent.com/112877689/209026097-58ee064f-90c8-4816-b212-f54f32436ac6.png)
+**Ülesanne 3**
+![image](https://user-images.githubusercontent.com/112877689/209026790-835bc29a-08ff-4924-8cdd-a99875abf782.png)
+![image](https://user-images.githubusercontent.com/112877689/209028490-ab320775-b563-4bf1-ba41-d93f2620ebc5.png)
+404 Not Found - ei leitud sellist
 
+**Ülesanne 4**
+![image](https://user-images.githubusercontent.com/112877689/209030313-5261e6c5-6830-4fa1-90e9-7973b2e68a8f.png)
